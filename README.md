@@ -1,4 +1,4 @@
 me-shell
 ========
 
-Custom Shell for the Michels
+Custom Shell for the Michels Pfefer
